@@ -140,7 +140,7 @@
 .elementor-38
   .elementor-element.elementor-element-fa2961a.elementor-view-stacked
   .elementor-icon {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-fa2961a.elementor-view-framed
@@ -148,8 +148,8 @@
 .elementor-38
   .elementor-element.elementor-element-fa2961a.elementor-view-default
   .elementor-icon {
-  color: #202020;
-  border-color: #202020;
+  color: #5a4742;
+  border-color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-fa2961a.elementor-view-framed
@@ -158,7 +158,7 @@
   .elementor-element.elementor-element-fa2961a.elementor-view-default
   .elementor-icon
   svg {
-  fill: #202020;
+  fill: #5a4742;
 }
 .elementor-38 .elementor-element.elementor-element-fa2961a .elementor-icon {
   font-size: 16px;
@@ -230,7 +230,7 @@
   .nav
   li
   a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -336,7 +336,7 @@
   ul
   li
   a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -346,7 +346,7 @@
   ul
   li
   a:hover {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -364,7 +364,7 @@
   ul
   li
   > a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -418,7 +418,7 @@
   ul
   > li.current-menu-item
   > a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -464,7 +464,7 @@
   ul
   li.current-menu-item
   a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-38
   .elementor-element.elementor-element-a812749
@@ -491,8 +491,8 @@
   justify-content: flex-end;
 }
 .elementor-38 .elementor-element.elementor-element-cf42e5c .elementor-button {
-  fill: #202020;
-  color: #202020;
+  fill: #5a4742;
+  color: #5a4742;
   background-color: rgba(2, 1, 1, 0);
   border-style: solid;
   border-width: 0px 1px 0px 1px;
@@ -784,8 +784,8 @@
   .availability_search_wrapper
   input[type="submit"]:hover {
   color: #ffffff;
-  background-color: #202020;
-  border-color: #202020;
+  background-color: #5a4742;
+  border-color: #5a4742;
 }
 .elementor-978
   .elementor-element.elementor-element-8756691
@@ -912,7 +912,7 @@
   --e-global-color-606de016: #23a455;
   --e-global-color-194d9ea8: #000;
   --e-global-color-4181e7fe: #fff;
-  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-family: "Monotype";
   --e-global-typography-primary-font-weight: 600;
   --e-global-typography-secondary-font-family: "Roboto Slab";
   --e-global-typography-secondary-font-weight: 400;
@@ -6853,14 +6853,14 @@ body:not(.rtl)
 .elementor-248
   .elementor-element.elementor-element-7220039
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
   padding-left: 0px;
 }
 .elementor-248
   .elementor-element.elementor-element-7220039
   .elementor-icon-list-item:hover
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-c57573d
@@ -6916,14 +6916,14 @@ body:not(.rtl)
 .elementor-248
   .elementor-element.elementor-element-c57573d
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
   padding-left: 0px;
 }
 .elementor-248
   .elementor-element.elementor-element-c57573d
   .elementor-icon-list-item:hover
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-c57573d
@@ -6988,14 +6988,14 @@ body:not(.rtl)
 .elementor-248
   .elementor-element.elementor-element-1966bd2
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
   padding-left: 0px;
 }
 .elementor-248
   .elementor-element.elementor-element-1966bd2
   .elementor-icon-list-item:hover
   .elementor-icon-list-text {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1966bd2
@@ -7019,11 +7019,11 @@ body:not(.rtl)
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-248 .elementor-element.elementor-element-af57502 {
-  color: #202020;
+  color: #5a4742;
   font-size: 16px;
 }
 .elementor-248 .elementor-element.elementor-element-f3213b1 {
-  color: #202020;
+  color: #5a4742;
   font-size: 16px;
 }
 .elementor-248
@@ -7158,55 +7158,55 @@ body:not(.rtl)
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-1795fa8
@@ -7257,55 +7257,55 @@ body:not(.rtl)
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-9be0e36
@@ -7356,55 +7356,55 @@ body:not(.rtl)
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-248
   .elementor-element.elementor-element-0710fb1
@@ -9857,7 +9857,7 @@ body:not(.rtl)
 .elementor-575
   .elementor-element.elementor-element-869a7e8.elementor-view-stacked
   .elementor-icon {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-869a7e8.elementor-view-framed
@@ -9865,8 +9865,8 @@ body:not(.rtl)
 .elementor-575
   .elementor-element.elementor-element-869a7e8.elementor-view-default
   .elementor-icon {
-  color: #202020;
-  border-color: #202020;
+  color: #5a4742;
+  border-color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-869a7e8.elementor-view-framed
@@ -9875,7 +9875,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-869a7e8.elementor-view-default
   .elementor-icon
   svg {
-  fill: #202020;
+  fill: #5a4742;
 }
 .elementor-575 .elementor-element.elementor-element-869a7e8 .elementor-icon {
   font-size: 16px;
@@ -9949,7 +9949,7 @@ body:not(.rtl)
   .nav
   li
   a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10055,7 +10055,7 @@ body:not(.rtl)
   ul
   li
   a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10065,7 +10065,7 @@ body:not(.rtl)
   ul
   li
   a:hover {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10083,7 +10083,7 @@ body:not(.rtl)
   ul
   li
   > a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10137,7 +10137,7 @@ body:not(.rtl)
   ul
   > li.current-menu-item
   > a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10183,7 +10183,7 @@ body:not(.rtl)
   ul
   li.current-menu-item
   a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-575
   .elementor-element.elementor-element-42f7661
@@ -10210,8 +10210,8 @@ body:not(.rtl)
   justify-content: flex-end;
 }
 .elementor-575 .elementor-element.elementor-element-8ade85d .elementor-button {
-  fill: #202020;
-  color: #202020;
+  fill: #5a4742;
+  color: #5a4742;
   background-color: rgba(2, 1, 1, 0);
   border-style: solid;
   border-width: 0px 1px 0px 1px;
@@ -10304,7 +10304,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-48abf58
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #1a4531;
+  background-color: #836356;
 }
 .elementor-585 .elementor-element.elementor-element-48abf58 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -10615,7 +10615,7 @@ body:not(.rtl)
   ul
   li
   a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-585
   .elementor-element.elementor-element-fd8e1ac
@@ -10625,7 +10625,7 @@ body:not(.rtl)
   ul
   li
   a:hover {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-585
   .elementor-element.elementor-element-fd8e1ac
@@ -10643,7 +10643,7 @@ body:not(.rtl)
   ul
   li
   > a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-585
   .elementor-element.elementor-element-fd8e1ac
@@ -10697,7 +10697,7 @@ body:not(.rtl)
   ul
   > li.current-menu-item
   > a {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-585
   .elementor-element.elementor-element-fd8e1ac
@@ -10743,7 +10743,7 @@ body:not(.rtl)
   ul
   li.current-menu-item
   a:before {
-  background-color: #202020;
+  background-color: #5a4742;
 }
 .elementor-585
   .elementor-element.elementor-element-fd8e1ac
@@ -11197,7 +11197,7 @@ body.elementor-page-585
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-606 .elementor-element.elementor-element-43a6608 {
@@ -11321,7 +11321,7 @@ body.rtl .elementor-606 .elementor-element.elementor-element-2aba535 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-606 .elementor-element.elementor-element-d2e26ca {
@@ -11418,7 +11418,7 @@ body.rtl .elementor-606 .elementor-element.elementor-element-2aba535 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-606 .elementor-element.elementor-element-b2cba8a {
@@ -11542,7 +11542,7 @@ body.rtl .elementor-606 .elementor-element.elementor-element-b2c1d50 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-606 .elementor-element.elementor-element-e0fe788 {
@@ -12517,7 +12517,7 @@ body.rtl .elementor-606 .elementor-element.elementor-element-b2c1d50 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-800 .elementor-element.elementor-element-ba2c9bc {
@@ -12622,23 +12622,23 @@ body.rtl .elementor-800 .elementor-element.elementor-element-f19540e {
   .elementor-element.elementor-element-0d92da9
   .food-menu-content-title-holder
   h3 {
-  color: #202020;
+  color: #5a4742;
   font-size: 20px;
 }
 .elementor-800
   .elementor-element.elementor-element-0d92da9
   .food-menu-content-title-line {
-  border-color: #202020;
+  border-color: #5a4742;
 }
 .elementor-800 .elementor-element.elementor-element-0d92da9 .food-menu-desc {
-  color: #202020;
+  color: #5a4742;
   font-size: 14px;
 }
 .elementor-800
   .elementor-element.elementor-element-0d92da9
   .food-menu-content-price-holder
   .food-menu-content-price-normal {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-800
   .elementor-element.elementor-element-0d92da9
@@ -12687,7 +12687,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-f19540e {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-800 .elementor-element.elementor-element-e856bed {
@@ -12765,23 +12765,23 @@ body.rtl .elementor-800 .elementor-element.elementor-element-f19540e {
   .elementor-element.elementor-element-5c2fae7
   .food-menu-content-title-holder
   h3 {
-  color: #202020;
+  color: #5a4742;
   font-size: 20px;
 }
 .elementor-800
   .elementor-element.elementor-element-5c2fae7
   .food-menu-content-title-line {
-  border-color: #202020;
+  border-color: #5a4742;
 }
 .elementor-800 .elementor-element.elementor-element-5c2fae7 .food-menu-desc {
-  color: #202020;
+  color: #5a4742;
   font-size: 14px;
 }
 .elementor-800
   .elementor-element.elementor-element-5c2fae7
   .food-menu-content-price-holder
   .food-menu-content-price-normal {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-800
   .elementor-element.elementor-element-5c2fae7
@@ -12800,7 +12800,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-f19540e {
   .elementor-element.elementor-element-5c2fae7
   .food-menu-content-highlight-holder
   h4 {
-  color: #202020;
+  color: #5a4742;
   font-size: 16px;
 }
 .elementor-800
@@ -12831,7 +12831,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-f19540e {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-800 .elementor-element.elementor-element-fc1019c {
@@ -13234,7 +13234,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
 }
 .elementor-831 .elementor-element.elementor-element-8c53ac0 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -13263,7 +13263,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
 .elementor-831
   .elementor-element.elementor-element-a8f7fb7
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-a8f7fb7
@@ -13283,55 +13283,55 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-58651ba
@@ -13373,7 +13373,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
   line-height: 1em;
 }
 .elementor-831 .elementor-element.elementor-element-942e78c {
-  color: #202020;
+  color: #5a4742;
   font-size: 16px;
 }
 .elementor-831
@@ -13404,13 +13404,13 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
   .elementor-element.elementor-element-1a111f3
   .elementor-social-icon
   i {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-1a111f3
   .elementor-social-icon
   svg {
-  fill: #202020;
+  fill: #5a4742;
 }
 .elementor-831
   .elementor-element.elementor-element-1a111f3
@@ -14125,7 +14125,7 @@ body.rtl .elementor-860 .elementor-element.elementor-element-ad8de44 {
 }
 .elementor-860 .elementor-element.elementor-element-42f03f3 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -14154,7 +14154,7 @@ body.rtl .elementor-860 .elementor-element.elementor-element-ad8de44 {
 .elementor-860
   .elementor-element.elementor-element-b7a232d
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-b7a232d
@@ -14174,55 +14174,55 @@ body.rtl .elementor-860 .elementor-element.elementor-element-ad8de44 {
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-88aec89
@@ -14329,7 +14329,7 @@ body.rtl .elementor-860 .elementor-element.elementor-element-9bf2151 {
 }
 .elementor-860 .elementor-element.elementor-element-0b21252 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -14358,7 +14358,7 @@ body.rtl .elementor-860 .elementor-element.elementor-element-9bf2151 {
 .elementor-860
   .elementor-element.elementor-element-82e671a
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-82e671a
@@ -14378,55 +14378,55 @@ body.rtl .elementor-860 .elementor-element.elementor-element-9bf2151 {
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-860
   .elementor-element.elementor-element-1043193
@@ -15263,7 +15263,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e60b41e {
 }
 .elementor-902 .elementor-element.elementor-element-e46c7c7 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -15292,7 +15292,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e60b41e {
 .elementor-902
   .elementor-element.elementor-element-a8eebdd
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a8eebdd
@@ -15312,55 +15312,55 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e60b41e {
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-022d7a9
@@ -15468,7 +15468,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 }
 .elementor-902 .elementor-element.elementor-element-05bd65b {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -15497,7 +15497,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 .elementor-902
   .elementor-element.elementor-element-151617c
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-151617c
@@ -15517,55 +15517,55 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-e600857
@@ -15654,7 +15654,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-902 .elementor-element.elementor-element-99603cf {
@@ -15736,7 +15736,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 }
 .elementor-902 .elementor-element.elementor-element-bcbbc18 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -15765,7 +15765,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 .elementor-902
   .elementor-element.elementor-element-2dff028
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-2dff028
@@ -15785,55 +15785,55 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-4930627
@@ -15897,7 +15897,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-902 .elementor-element.elementor-element-e0b8d8a {
@@ -15971,7 +15971,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 }
 .elementor-902 .elementor-element.elementor-element-28e7873 {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -16000,7 +16000,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
 .elementor-902
   .elementor-element.elementor-element-a60325b
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a60325b
@@ -16020,55 +16020,55 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-a7994c1
@@ -16128,7 +16128,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e0ee838 {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-902 .elementor-element.elementor-element-44e4b97 {
@@ -16292,7 +16292,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-045fb4e {
 }
 .elementor-902 .elementor-element.elementor-element-a0686fb {
   --divider-border-style: solid;
-  --divider-border-color: #202020;
+  --divider-border-color: #5a4742;
   --divider-border-width: 1px;
   width: auto;
   max-width: auto;
@@ -16321,7 +16321,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-045fb4e {
 .elementor-902
   .elementor-element.elementor-element-c4c342e
   .elementor-heading-title {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-c4c342e
@@ -16341,55 +16341,55 @@ body.rtl .elementor-902 .elementor-element.elementor-element-045fb4e {
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h1 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h2 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h3 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h4 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h5 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   h6 {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   div {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   span {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
   .themegoods-animated-text
   p {
-  color: #202020;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-bab9a5b
@@ -16453,7 +16453,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-045fb4e {
   padding: 10px 17px 10px 17px;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #202020;
+  border-color: #5a4742;
   border-radius: 250px 250px 250px 250px;
 }
 .elementor-902 .elementor-element.elementor-element-ad66ad3 {
