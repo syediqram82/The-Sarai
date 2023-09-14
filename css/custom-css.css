@@ -6574,15 +6574,15 @@ body:not(.rtl)
   padding: 0px 50px 60px 50px;
 }
 .elementor-248 .elementor-element.elementor-element-8976547 .elementor-button {
-  font-family: "Cormorant Garamond", Sans-serif;
+  font-family: "Product Sans", Sans-serif;
   font-size: 24px;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #1a4531;
+  background-color: #5a4742;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #1a4531;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 12px;
 }
 .elementor-248
   .elementor-element.elementor-element-8976547
@@ -6755,7 +6755,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-4d22afc
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #faf7f1;
+  background-color: #ffffff;
 }
 .elementor-248 .elementor-element.elementor-element-4d22afc {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -6788,7 +6788,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-cf7aa8e
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #faf7f1;
+  background-color: #ffffff;
 }
 .elementor-248 .elementor-element.elementor-element-cf7aa8e {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -7039,7 +7039,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-2da4e60
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #faf7f1;
+  background-color: #ffffff;
 }
 .elementor-248 .elementor-element.elementor-element-2da4e60 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -7094,7 +7094,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-f89102f
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #faf7f1;
+  background-color: #ffffff;
 }
 .elementor-248 .elementor-element.elementor-element-f89102f {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -7117,6 +7117,7 @@ body:not(.rtl)
 .elementor-248 .elementor-element.elementor-element-3ab84c3 .elementor-divider {
   padding-top: 15px;
   padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .elementor-248
   .elementor-element.elementor-element-3830344
@@ -7136,7 +7137,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-3830344
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #faf7f1;
+  background-color: #ffffff;
 }
 .elementor-248 .elementor-element.elementor-element-3830344 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -13446,7 +13447,7 @@ body.rtl .elementor-800 .elementor-element.elementor-element-24ab5d6 {
   > .elementor-column-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #1a4531;
+  background-color: #d3c7bc;
 }
 .elementor-831
   .elementor-element.elementor-element-9f6b9b4
@@ -15127,13 +15128,13 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e60b41e {
   .elementor-element.elementor-element-820c00d
   .themegoods-animated-text
   h1 {
-  color: #000000;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-820c00d
   .themegoods-animated-text
   h2 {
-  color: #000000;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-820c00d
@@ -15215,6 +15216,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-e60b41e {
   p {
   font-size: 40px;
   line-height: 1.1em;
+  color: #5a4742;
 }
 .elementor-902
   .elementor-element.elementor-element-820c00d
@@ -16670,7 +16672,7 @@ body.rtl .elementor-902 .elementor-element.elementor-element-045fb4e {
   > .elementor-column-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #1a4531;
+  background-color: #d3c7bc;
 }
 .elementor-902
   .elementor-element.elementor-element-547fc79
