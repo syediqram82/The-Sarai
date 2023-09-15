@@ -414,7 +414,7 @@ Sidebar heading:  12px 'Renner','Helvetica Neue', Arial, Verdana, sans-serif
   font-family: "Product Sans Light";
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/Product\ Sans\ Light.ttf) format("truetype");
+  src: url(../fonts/Product\ Sans\ Light.ttf) format("opentype");
 }
 
 .slideUp2 {
@@ -561,7 +561,7 @@ Sidebar heading:  12px 'Renner','Helvetica Neue', Arial, Verdana, sans-serif
 
 body {
   background: #ffffff;
-  font-family: "Libre Baskerville", "Helvetica Neue", Arial, Verdana, sans-serif;
+  font-family: "Ace Sans", Arial, Verdana, sans-serif;
   padding: 0;
   margin: 0;
   color: #444;
@@ -9182,7 +9182,7 @@ h2.widgettitle,
 h5.widgettitle,
 form.mphb_sc_checkout-form h3,
 form.mphb_sc_checkout-form h4 {
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: "Ace Sans", Georgia, serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0px;
@@ -9327,7 +9327,7 @@ h6.subtitle,
 .post_attribute,
 .comment_date,
 .post-date {
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: "Ace Sans", Georgia, serif;
 }
 .post_header h5,
 h6.subtitle,
@@ -9357,7 +9357,7 @@ h6.subtitle,
   color: #ffffff;
 }
 .singleroom_price_amount .mphb-price {
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: "Ace Sans", Georgia, serif;
 }
 .woocommerce ul.products li.product .price ins,
 .woocommerce-page ul.products li.product .price ins,
