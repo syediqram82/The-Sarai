@@ -405,7 +405,7 @@ Sidebar heading:  12px 'Renner','Helvetica Neue', Arial, Verdana, sans-serif
   src: url(../fonts/Reforma1969-Blanca.woff) format("woff");
 }
 @font-face {
-  font-family: "Ace Sans ";
+  font-family: "Ace Sans";
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/AceSans-Demo.otf) format("opentype");
