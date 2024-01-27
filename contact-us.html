@@ -708,20 +708,21 @@
                                 <a href="https://instagram.com/thesaraiproperty?igshid=OGQ5ZDc2ODk2ZA=="><img src="upload/instagram.png" alt="" width="30vw" /></a >
                               </div>
                         </div>
-                        <form onsubmit="sendEmail(); reset(); return false;" style="width: 95%;">
-                          <input type="text" name="name" id="name" placeholder="Name:" style="border-radius: 0px;" required>
-                          
-                          <div style="display: flex; justify-content: space-evenly; gap: 20px;">
-                              <input type="text" name="City" placeholder="City:" id="city" style="width: 50%; border-radius: 0px;" required>
-                              <input type="email" id="email" name="Email" placeholder="Email:" style="width: 50%; border-radius: 0px;" required>
-                          </div>
-                          
-                          <input type="number" name="Guests" id="guests" placeholder="Number of Guests:" min="1" style="width: 100%; border-radius: 0px;" required>
-                          
-                          <textarea name="Message" id="message" cols="30" rows="10" placeholder="Message:"  style="border: 1px solid rgb(196, 196, 196); border-radius: 0px;"></textarea>
-                          
-                          <button type="submit" style="width: 30%; align-self: center; padding: 15px; border-radius: 10px; font-size: larger; background-color: #5A4742; color: white; box-shadow: none; width: 150px; margin-bottom: 1rem; border-color: #d3c7bc; border-style: solid">Submit</button>
-                      </form>
+                        <!-- <form onsubmit="sendEmail(); reset(); return false;" style="width: 95%;"> old code line-->
+                          <form action="contact-mail.php" method="post" style="width: 95%;">
+                            <input type="text" name="name" id="name" placeholder="Name:" style="border-radius: 0px;" required>
+                        
+                            <div style="display: flex; justify-content: space-evenly; gap: 20px;">
+                                <input type="text" name="City" placeholder="City:" id="city" style="width: 50%; border-radius: 0px;" required>
+                                <input type="email" id="email" name="Email" placeholder="Email:" style="width: 50%; border-radius: 0px;" required>
+                            </div>
+                        
+                            <input type="number" name="Guests" id="guests" placeholder="Number of Guests:" min="1" style="width: 100%; border-radius: 0px;" required>
+                        
+                            <textarea name="Message" id="message" cols="30" rows="10" placeholder="Message:"  style="border: 1px solid rgb(196, 196, 196); border-radius: 0px;"></textarea>
+                        
+                            <button type="submit" style="width: 30%; align-self: center; padding: 15px; border-radius: 10px; font-size: larger; background-color: #5A4742; color: white; box-shadow: none; width: 150px; margin-bottom: 1rem; border-color: #d3c7bc; border-style: solid">Submit</button>
+                        </form>
                       
                     </div>
                     
