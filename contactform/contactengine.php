@@ -1,43 +1,30 @@
 <?php
-
-$EmailFrom = "test@gmail.com";
-$EmailTo = "a.bublaku@gmail.com";
+$EmailTo = "syediqram82@gmail.com"; // Set the email address where you want to receive form submissions
 $Subject = "Testing This one";
-$Name = Trim(stripslashes($_POST['Name'])); 
-$Tel = Trim(stripslashes($_POST['Tel'])); 
-$Email = Trim(stripslashes($_POST['Email'])); 
-$Message = Trim(stripslashes($_POST['Message'])); 
 
-// validation
-$validationOK=true;
-if (!$validationOK) {
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
-  exit;
-}
+// Retrieve form data
+$Name = isset($_POST['name']) ? $_POST['name'] : "";
+$City = isset($_POST['City']) ? $_POST['City'] : "";
+$Email = isset($_POST['Email']) ? $_POST['Email'] : "";
+$Guests = isset($_POST['Guests']) ? $_POST['Guests'] : "";
+$Message = isset($_POST['Message']) ? $_POST['Message'] : "";
 
-// prepare email body text
-$Body = "";
-$Body .= "Name: ";
-$Body .= $Name;
-$Body .= "\n";
-$Body .= "Tel: ";
-$Body .= $Tel;
-$Body .= "\n";
-$Body .= "Email: ";
-$Body .= $Email;
-$Body .= "\n";
-$Body .= "Message: ";
-$Body .= $Message;
-$Body .= "\n";
+// Prepare email body text
+$Body = "Name: $Name\n";
+$Body .= "City: $City\n";
+$Body .= "Email: $Email\n";
+$Body .= "Number of Guests: $Guests\n";
+$Body .= "Message: $Message\n";
 
-// send email 
-$success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
+// Send email
+$success = mail($EmailTo, $Subject, $Body, "From: <$Email>");
 
-// redirect to success page 
-if ($success){
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=contactthanks.php\">";
-}
-else{
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
+// Redirect to success or error page
+if ($success) {
+    header("Location: contactthanks.php?status=success");
+    exit();
+} else {
+    header("Location: contactthanks.php?status=error");
+    exit();
 }
 ?>
